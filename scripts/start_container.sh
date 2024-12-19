@@ -5,4 +5,4 @@ set -e
 docker pull maksoft121/simple-python-flask-app
 
 # Run the Docker image as a container
-docker run -d -p 4000:5000 maksoft121/simple-python-flask-app
+docker run -d -p 8000:8000 maksoft121/simple-python-flask-app
