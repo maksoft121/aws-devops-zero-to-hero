@@ -85,7 +85,7 @@ This day introduces Infrastructure as Code (IaC) using AWS CloudFormation. You'l
 
 This day focuses on AWS CodeCommit, a managed source control service. You'll learn how to set up a Git repository in CodeCommit, collaborate with team members, and manage version control of your codebase.
 
-**Project:** You'll configure a CodeCommit repository for a team project, including setting up access control and collaboration workflows.
+**Project:** You'll configure a CodeCommit repository for a team project, including setting up access control and collaboration workflows.,.
 
 ## Day 13: AWS CodePipeline
 
